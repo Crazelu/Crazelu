@@ -1,11 +1,11 @@
 ### Hi there pedestrian on the internet crosswalk👋
 ### I’m Ebere Lucky (@Crazelu)| Human | Mobile Engineer.
-### I'm as passionate about money (winks) as much as I am passionate about building stuff.
+### I'm as passionate about money (winks) as about building stuff.
 
 - There, I said it!
 
-- 👀 I’m interested in Mobile Development with Flutter, Data Science and Machine Learning with Python, Android Development, and Backend Web Development.
-- 🔭 I’m currently working on [device-media](https://github.com/Crazelu/device-media) - a Flutter plugin which lets you access media files on Android devices.
+- 👀 I’m interested in Mobile Development with Flutter, Android Development, and Backend Web Development.
+- 🔭 I’m currently working on [json_ui](https://github.com/Crazelu/json_ui) - a Flutter package for parsing JSON data into beautiful interactive UI components.
 - 🌱 I’m currently learning Java, NodeJs.
 - 💞️ I’m looking to collaborate on Flutter packages and plugins.
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
