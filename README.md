@@ -1,8 +1,5 @@
 ### Hi there pedestrian on the internet crosswalk👋
 ### I’m Ebere Lucky (@Crazelu)| Human | Mobile Engineer.
-### I'm as passionate about money (winks) as about building stuff.
-
-- There, I said it!
 
 - 👀 I’m interested in Mobile Development with Flutter, Android Development, and Backend Web Development.
 - 🔭 I’m currently working on [json_ui](https://github.com/Crazelu/json_ui) - a Flutter package for parsing JSON data into beautiful interactive UI components.
