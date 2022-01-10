@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in Mobile Development with Flutter, Android Development, and Backend Web Development.
 - 🔭 I’m currently working on [json_ui](https://github.com/Crazelu/json_ui) - a Flutter package for parsing JSON data into beautiful interactive UI components.
-- 🌱 I’m currently learning Java, NodeJs.
 - 💞️ I’m looking to collaborate on Flutter packages and plugins.
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
 
