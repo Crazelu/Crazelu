@@ -1,5 +1,5 @@
 ### Hi there pedestrian on the internet crosswalk👋
-### I’m Ebere Lucky (@Crazelu)| Human | Mobile Engineer.
+### I’m Lucky Ebere (@Crazelu)| Human | Mobile Engineer.
 
 - 👀 I’m interested in Mobile Development with Flutter and SwiftUI for iOS, and Backend Web Development.
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
