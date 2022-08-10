@@ -2,7 +2,6 @@
 ### I’m Ebere Lucky (@Crazelu)| Human | Mobile Engineer.
 
 - 👀 I’m interested in Mobile Development with Flutter and SwiftUI for iOS, and Backend Web Development.
-- 🔭 I’m currently working on [json_ui](https://github.com/Crazelu/json_ui) - a Flutter package for parsing JSON data into beautiful interactive UI components. Or something more interesting.
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
