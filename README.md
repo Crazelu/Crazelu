@@ -1,7 +1,9 @@
-### Hi there pedestrian on the internet crosswalk👋
-### I’m Lucky Ebere (@Crazelu)| Human | Mobile Engineer.
+### Aye, listen!
+I’m Lucky Ebere (@Crazelu). I'm a Mobile Engineer from Nigeria. 
+My mind is an interesting place to be. I'm almost always working on something fun where 
+I push my limits and grow as a result. 
 
-- 👀 I’m interested in Mobile Development with Flutter and SwiftUI for iOS, and Backend Web Development.
+- ⚡ Dart makes my heart Flutter
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
 
 [![alt text][1.1]][1]
