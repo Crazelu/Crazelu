@@ -1,5 +1,5 @@
 ### Aye, listen!
-I’m Lucky Ebere (@Crazelu). I'm a Mobile Engineer from Nigeria. 
+I’m Lucky Ebere. I'm a Mobile Engineer from Nigeria. 
 My mind is an interesting place to be. I'm almost always working on something fun where 
 I push my limits and grow as a result. 
 
