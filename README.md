@@ -1,5 +1,5 @@
 ### Aye, listen!
-I’m Lucky Ebere. I'm a Software Engineer from Nigeria. 
+I’m Lucky Ebere, a Software Engineer from Nigeria. 
 I'm almost always working on something fun where 
 I push my limits and grow as a result. 
 
