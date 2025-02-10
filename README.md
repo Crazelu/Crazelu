@@ -3,16 +3,6 @@ You've reached Lucky Ebere. Leave a message.
 
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
 
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
-
-[1.1]: https://raw.githubusercontent.com/Crazelu/Crazelu/main/assets/twitter.png (twitter icon)
-[6.1]: https://raw.githubusercontent.com/Crazelu/Crazelu/main/assets/github.png (github icon)
-
-
-[1]: http://www.twitter.com/ebere_lucky
-[6]: http://www.github.com/crazelu
-
 <!---
 Crazeluu/Crazeluu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
