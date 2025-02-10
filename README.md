@@ -1,9 +1,6 @@
-### Aye, listen!
-I’m Lucky Ebere, a Software Engineer from Nigeria. 
-I'm almost always working on something fun where 
-I push my limits and grow as a result. 
+### Hey!
+You've reached Lucky Ebere. Leave a message.
 
-- ⚡ Dart makes my heart Flutter
 - 📫 You can reach me via [e-mail](mailto:eberelucky64@gmail.com?subject=[GitHub]%20Hey%20There%20Lucky)
 
 [![alt text][1.1]][1]
